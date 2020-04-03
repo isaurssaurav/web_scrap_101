@@ -3,13 +3,21 @@ scrap imdb top movies
 
 ## Install
 
-```git https://github.com/isaurssaurav/web_scrap_101.git```
+```
+git https://github.com/isaurssaurav/web_scrap_101.git
+```
 
-```cd web_scrap_101```
+```
+cd web_scrap_101
+```
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 
-```python3 index.py```
+```
+python3 index.py
+```
 
