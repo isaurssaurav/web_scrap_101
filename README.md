@@ -1,7 +1,7 @@
 # web_scrap_101
 scrap imdb top movies
 
-## Install
+## Installation
 
 ```
 git https://github.com/isaurssaurav/web_scrap_101.git
